@@ -1,0 +1,6 @@
+{
+    "env":{
+        "TZ":"America/Monterrey",
+        "LOG_BDO_API_REQUESTS":1
+    }
+}
